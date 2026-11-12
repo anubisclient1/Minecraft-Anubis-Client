@@ -2,9 +2,9 @@
 Welcome to the official GitHub repository of Anubis Client Mobile, the mobile adaptation of Minecraft Anubis Client.
 
 ### About the Project
-Anubis Client Mobile brings the Anubis Client experience to mobile devices, with compatibility for Minecraft **1.21.x** versions.
+Anubis Client  brings the Anubis Client experience to mobile devices, with compatibility for Minecraft **1.21.x** versions.
 
-The project aims to provide a smooth, accessible, and reliable mobile experience while maintaining the core identity of the original Anubis Client.
+The project aims to provide a smooth, accessible, and reliable  experience while maintaining the core identity of the original Anubis Client.
 
 ### Compatibility
 - **Platform:** Mobile

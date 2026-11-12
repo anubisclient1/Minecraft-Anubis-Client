@@ -1,4 +1,4 @@
-# Minecraft-Anubis-Client-Mobile-Version
+# Minecraft-Anubis-Client
 Welcome to the official GitHub repository of Anubis Client Mobile, the mobile adaptation of Minecraft Anubis Client.
 
 ### About the Project
